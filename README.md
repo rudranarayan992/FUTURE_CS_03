@@ -83,3 +83,36 @@ As part of my **Cyber Security Internship** with **Future Interns**, I conducted
 
 ## 📁 **Project Files** 📂
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## 📅 **Task Completion** 📆  
+**Task**: 03  
+**Track**: Cyber Security (CS)  
+**Intern**: [Rudra Narayan Swain]  
+**Date**: April 2025  
+
+---
+
+## 📣 **Proof of Work** 📹
+
+📹 **Video demonstration** of the Wi-Fi security assessment: [task03_demo.mp4]
+---
+
+# 💻 **Follow My Internship Journey** 🚀
+
+- **LinkedIn**: [Linkhttps://www.linkedin.com/in/rudra-narayan-swain-cyber-student/]  
+  
+
