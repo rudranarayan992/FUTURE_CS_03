@@ -87,7 +87,7 @@ As part of my **Cyber Security Internship** with **Future Interns**, I conducted
 ](https://github.com/rudranarayan992/FUTURE_CS_03/blob/main/nmap_scan_results.txt)
 
 
-
+## ✅ [**Recommendations**](https://github.com/rudranarayan992/FUTURE_CS_03/blob/main/recommendations.md) 🛡️
 
 
 
